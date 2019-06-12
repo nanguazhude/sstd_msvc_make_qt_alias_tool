@@ -41,3 +41,23 @@ target_wrapper.*
 
 # QtCreator CMake
 CMakeLists.txt.user*
+.vs/sstd_msvc_make_qt_alias_tool/v15/.suo
+.vs/sstd_msvc_make_qt_alias_tool/v15/Browse.VC.db
+.vs/sstd_msvc_make_qt_alias_tool/v15/ipch/AutoPCH/4d869f3621c321b5/MAIN.ipch
+debug/main.obj
+debug/sstd_msv.F9536728.tlog/CL.command.1.tlog
+debug/sstd_msv.F9536728.tlog/CL.read.1.tlog
+debug/sstd_msv.F9536728.tlog/CL.write.1.tlog
+debug/sstd_msv.F9536728.tlog/link.command.1.tlog
+debug/sstd_msv.F9536728.tlog/link.read.1.tlog
+debug/sstd_msv.F9536728.tlog/link.write.1.tlog
+debug/sstd_msv.F9536728.tlog/sstd_msvc_make_qt_alias_tool.lastbuildstate
+debug/sstd_msvc_make_qt_alias_tool.log
+debug/sstd_msvc_make_qt_alias_tool_debug.exe
+debug/sstd_msvc_make_qt_alias_tool_debug.ilk
+debug/sstd_msvc_make_qt_alias_tool_debug.pdb
+debug/vc141.pdb
+sstd_msvc_make_qt_alias_tool.sln
+sstd_msvc_make_qt_alias_tool.vcxproj
+sstd_msvc_make_qt_alias_tool.vcxproj.filters
+sstd_msvc_make_qt_alias_tool.vcxproj.user
