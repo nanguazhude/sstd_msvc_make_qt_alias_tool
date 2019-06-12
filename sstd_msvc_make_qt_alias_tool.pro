@@ -10,7 +10,6 @@ CONFIG(debug,debug|release){
 }
 
 QMAKE_CXXFLAGS += /std:c++latest
-CONFIG += utf8_source
 CONFIG += suppress_vcproj_warnings
 
 QT -= core
